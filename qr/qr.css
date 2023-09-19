@@ -1,5 +1,6 @@
 body {
   background-color: hsl(212, 45%, 89%);
+  font-size: 15px;
 }
 .container {
   background-color: hsl(0, 0%, 100%);
@@ -19,13 +20,14 @@ body {
 }
 
 #paragraph1{
-   font-family: 'Outfit,Sans-serif';
-  font-weight: 800;
+   font-family: 'Outfit';
+  font-weight: 700;
 
 }
 #paragraph2{
+  font-family: 'Outfit';
   font-size: small;
-  font-weight: 30;
+  font-weight: 500;
    
 
 }
